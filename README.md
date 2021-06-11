@@ -1,6 +1,11 @@
-# brighten_up
+# Brighten_Up
+Speaking Motivational App
 
-A new Flutter project.
+https://user-images.githubusercontent.com/74535459/121701160-409d2600-caee-11eb-9934-9b5c505180d6.mp4
+
+
+
+
 
 ## Getting Started
 
